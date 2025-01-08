@@ -17,3 +17,10 @@ bundle exec jekyll s
 ```bash
 ./initpost.sh -c "My amazing post"
 ```
+## Random Blog image
+
+You can set the value for the image of your blog post to get a random picture each time so you don't have to upload an image as part of the repo.
+
+```md
+image: https://picsum.photos/1200/600
+```
