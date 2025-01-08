@@ -1,0 +1,13 @@
+{
+    "packageRules": [
+      {
+        "matchPackageNames": ["jekyll-theme-chirpy"],
+        "enabled": true
+      },
+      {
+        "matchPackageNames": ["*"],
+        "enabled": false
+      }
+    ]
+  }
+  
